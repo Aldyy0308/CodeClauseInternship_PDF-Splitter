@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\addyf\\Desktop\\itextpdf-5.4.0.jar",
+        "d:\\jar_files\\commons-logging-1.2.jar",
+        "d:\\jar_files\\fontbox-2.0.22.jar",
+        "d:\\jar_files\\pdfbox-2.0.22.jar",
+        "d:\\jar_files\\pdfbox-debugger-2.0.22.jar",
+        "d:\\jar_files\\pdfbox-tools-2.0.22.jar"
+    ],
+    "git.openRepositoryInParentFolders": "never"
+}
